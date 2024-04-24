@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+langchain-google-vertexai
+langchain-google-genai
+fastapi
+regex
+uvicorn
+python-multipart
+pandas
+tensorflow
+wfdb
+scikit-learn
+faiss-cpu 
